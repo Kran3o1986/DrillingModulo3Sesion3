@@ -1,5 +1,4 @@
-# Modulo3Sesion3
-Drilling módulo 3 sesión 2
+Drilling módulo 3 sesión 3
 
 DRILLING: “¡50% OFF!”  
 Para resolver este ejercicio, anteriormente debe haber revisado la lectura y los videos del CUE: Control de 
